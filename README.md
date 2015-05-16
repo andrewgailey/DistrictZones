@@ -1,3 +1,3 @@
 DistrictZones
 =============
-###Cities: Slylines mod that adds the zoning overlay to the districts overlay
+###Cities: Skylines mod that adds the zoning overlay to the districts overlay
